@@ -1,0 +1,100 @@
+Saved: results_20251111_192437/real_samples.png
+Epoch: 0 | Loss D.: 0.5612 | Loss G.: 0.5086
+Saved: results_20251111_192437/epoch_000.png
+Epoch: 1 | Loss D.: 0.0142 | Loss G.: 6.9197
+Saved: results_20251111_192437/epoch_001.png
+Epoch: 2 | Loss D.: 0.0655 | Loss G.: 4.1406
+Saved: results_20251111_192437/epoch_002.png
+Epoch: 3 | Loss D.: 0.0972 | Loss G.: 3.8537
+Saved: results_20251111_192437/epoch_003.png
+Epoch: 4 | Loss D.: 0.2170 | Loss G.: 3.4906
+Saved: results_20251111_192437/epoch_004.png
+Epoch: 5 | Loss D.: 0.3200 | Loss G.: 2.9420
+Saved: results_20251111_192437/epoch_005.png
+Epoch: 6 | Loss D.: 0.2112 | Loss G.: 2.4263
+Saved: results_20251111_192437/epoch_006.png
+Epoch: 7 | Loss D.: 0.3948 | Loss G.: 1.8554
+Saved: results_20251111_192437/epoch_007.png
+Epoch: 8 | Loss D.: 0.4446 | Loss G.: 1.7566
+Saved: results_20251111_192437/epoch_008.png
+Epoch: 9 | Loss D.: 0.4634 | Loss G.: 1.2837
+Saved: results_20251111_192437/epoch_009.png
+Epoch: 10 | Loss D.: 0.4737 | Loss G.: 1.4174
+Saved: results_20251111_192437/epoch_010.png
+Epoch: 11 | Loss D.: 0.5002 | Loss G.: 1.3739
+Saved: results_20251111_192437/epoch_011.png
+Epoch: 12 | Loss D.: 0.6495 | Loss G.: 0.9902
+Saved: results_20251111_192437/epoch_012.png
+Epoch: 13 | Loss D.: 0.5537 | Loss G.: 1.2853
+Saved: results_20251111_192437/epoch_013.png
+Epoch: 14 | Loss D.: 0.6120 | Loss G.: 1.1687
+Saved: results_20251111_192437/epoch_014.png
+Epoch: 15 | Loss D.: 0.6591 | Loss G.: 0.9710
+Saved: results_20251111_192437/epoch_015.png
+Epoch: 16 | Loss D.: 0.5816 | Loss G.: 1.0516
+Saved: results_20251111_192437/epoch_016.png
+Epoch: 17 | Loss D.: 0.5729 | Loss G.: 0.9787
+Saved: results_20251111_192437/epoch_017.png
+Epoch: 18 | Loss D.: 0.5873 | Loss G.: 0.9345
+Saved: results_20251111_192437/epoch_018.png
+Epoch: 19 | Loss D.: 0.5558 | Loss G.: 0.9020
+Saved: results_20251111_192437/epoch_019.png
+Epoch: 20 | Loss D.: 0.5846 | Loss G.: 1.0692
+Saved: results_20251111_192437/epoch_020.png
+Epoch: 21 | Loss D.: 0.5540 | Loss G.: 0.9136
+Saved: results_20251111_192437/epoch_021.png
+Epoch: 22 | Loss D.: 0.5593 | Loss G.: 0.9054
+Saved: results_20251111_192437/epoch_022.png
+Epoch: 23 | Loss D.: 0.5820 | Loss G.: 1.0061
+Saved: results_20251111_192437/epoch_023.png
+Epoch: 24 | Loss D.: 0.5457 | Loss G.: 0.8877
+Saved: results_20251111_192437/epoch_024.png
+Epoch: 25 | Loss D.: 0.6353 | Loss G.: 0.9262
+Saved: results_20251111_192437/epoch_025.png
+Epoch: 26 | Loss D.: 0.5930 | Loss G.: 0.9901
+Saved: results_20251111_192437/epoch_026.png
+Epoch: 27 | Loss D.: 0.5759 | Loss G.: 0.9935
+Saved: results_20251111_192437/epoch_027.png
+Epoch: 28 | Loss D.: 0.6067 | Loss G.: 0.9992
+Saved: results_20251111_192437/epoch_028.png
+Epoch: 29 | Loss D.: 0.5589 | Loss G.: 0.9068
+Saved: results_20251111_192437/epoch_029.png
+Epoch: 30 | Loss D.: 0.5681 | Loss G.: 0.9172
+Saved: results_20251111_192437/epoch_030.png
+Epoch: 31 | Loss D.: 0.5539 | Loss G.: 0.7213
+Saved: results_20251111_192437/epoch_031.png
+Epoch: 32 | Loss D.: 0.5978 | Loss G.: 1.0122
+Saved: results_20251111_192437/epoch_032.png
+Epoch: 33 | Loss D.: 0.6000 | Loss G.: 0.9376
+Saved: results_20251111_192437/epoch_033.png
+Epoch: 34 | Loss D.: 0.5723 | Loss G.: 0.8956
+Saved: results_20251111_192437/epoch_034.png
+Epoch: 35 | Loss D.: 0.5653 | Loss G.: 0.8209
+Saved: results_20251111_192437/epoch_035.png
+Epoch: 36 | Loss D.: 0.6344 | Loss G.: 0.8409
+Saved: results_20251111_192437/epoch_036.png
+Epoch: 37 | Loss D.: 0.6818 | Loss G.: 0.8133
+Saved: results_20251111_192437/epoch_037.png
+Epoch: 38 | Loss D.: 0.6249 | Loss G.: 0.8562
+Saved: results_20251111_192437/epoch_038.png
+Epoch: 39 | Loss D.: 0.6474 | Loss G.: 0.9900
+Saved: results_20251111_192437/epoch_039.png
+Epoch: 40 | Loss D.: 0.6043 | Loss G.: 0.9477
+Saved: results_20251111_192437/epoch_040.png
+Epoch: 41 | Loss D.: 0.6004 | Loss G.: 0.8835
+Saved: results_20251111_192437/epoch_041.png
+Epoch: 42 | Loss D.: 0.6226 | Loss G.: 0.8856
+Saved: results_20251111_192437/epoch_042.png
+Epoch: 43 | Loss D.: 0.6540 | Loss G.: 0.8543
+Saved: results_20251111_192437/epoch_043.png
+Epoch: 44 | Loss D.: 0.6252 | Loss G.: 0.8390
+Saved: results_20251111_192437/epoch_044.png
+Epoch: 45 | Loss D.: 0.6331 | Loss G.: 0.8197
+Saved: results_20251111_192437/epoch_045.png
+Epoch: 46 | Loss D.: 0.6194 | Loss G.: 0.9453
+Saved: results_20251111_192437/epoch_046.png
+Epoch: 47 | Loss D.: 0.6012 | Loss G.: 0.8840
+Saved: results_20251111_192437/epoch_047.png
+Epoch: 48 | Loss D.: 0.5782 | Loss G.: 0.9846
+Saved: results_20251111_192437/epoch_048.png
+Epoch: 49 | Loss D.: 0.7085 | Loss G.: 0.9172

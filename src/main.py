@@ -31,7 +31,7 @@ def load_data(batch_size=32):
     transform = transforms.Compose(
         [transforms.ToTensor(), transforms.Normalize((0.5,), (0.5,))]
     )
-    train_set = torchvision.datasets.MNIST(
+    train_set = torchvision.datasets.FashionMNIST(
         root=".", train=True, download=True, transform=transform
     )
     train_loader = torch.utils.data.DataLoader(
@@ -52,8 +52,8 @@ def plot_samples(samples, title="Samples", save_path=None):
     if save_path:
         plt.savefig(save_path)
         print(f"Saved: {save_path}")
+        plt.close(fig)
     
-    plt.show()
     return fig
 
 # Training function

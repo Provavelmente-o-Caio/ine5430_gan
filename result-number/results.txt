@@ -1,0 +1,102 @@
+Saved: results_20251111_190133/real_samples.png
+Epoch: 0 | Loss D.: 0.5491 | Loss G.: 0.5217
+Saved: results_20251111_190133/epoch_000.png
+Epoch: 1 | Loss D.: 0.0799 | Loss G.: 5.1128
+Saved: results_20251111_190133/epoch_001.png
+Epoch: 2 | Loss D.: 0.0950 | Loss G.: 5.3060
+Saved: results_20251111_190133/epoch_002.png
+Epoch: 3 | Loss D.: 0.0352 | Loss G.: 5.3968
+Saved: results_20251111_190133/epoch_003.png
+Epoch: 4 | Loss D.: 0.0091 | Loss G.: 7.3298
+Saved: results_20251111_190133/epoch_004.png
+Epoch: 5 | Loss D.: 0.0905 | Loss G.: 5.2294
+Saved: results_20251111_190133/epoch_005.png
+Epoch: 6 | Loss D.: 0.4582 | Loss G.: 4.1053
+Saved: results_20251111_190133/epoch_006.png
+Epoch: 7 | Loss D.: 0.2452 | Loss G.: 2.4436
+Saved: results_20251111_190133/epoch_007.png
+Epoch: 8 | Loss D.: 0.3315 | Loss G.: 2.2003
+Saved: results_20251111_190133/epoch_008.png
+Epoch: 9 | Loss D.: 0.3239 | Loss G.: 1.7468
+Saved: results_20251111_190133/epoch_009.png
+Epoch: 10 | Loss D.: 0.4370 | Loss G.: 1.7409
+Saved: results_20251111_190133/epoch_010.png
+Epoch: 11 | Loss D.: 0.3375 | Loss G.: 1.5981
+Saved: results_20251111_190133/epoch_011.png
+Epoch: 12 | Loss D.: 0.3665 | Loss G.: 1.5542
+Saved: results_20251111_190133/epoch_012.png
+Epoch: 13 | Loss D.: 0.4642 | Loss G.: 1.5522
+Saved: results_20251111_190133/epoch_013.png
+Epoch: 14 | Loss D.: 0.5014 | Loss G.: 1.4235
+Saved: results_20251111_190133/epoch_014.png
+Epoch: 15 | Loss D.: 0.4927 | Loss G.: 1.5253
+Saved: results_20251111_190133/epoch_015.png
+Epoch: 16 | Loss D.: 0.4163 | Loss G.: 1.4855
+Saved: results_20251111_190133/epoch_016.png
+Epoch: 17 | Loss D.: 0.4953 | Loss G.: 1.3246
+Saved: results_20251111_190133/epoch_017.png
+Epoch: 18 | Loss D.: 0.4917 | Loss G.: 1.1814
+Saved: results_20251111_190133/epoch_018.png
+Epoch: 19 | Loss D.: 0.3807 | Loss G.: 1.2831
+/Users/alfeu/UFSC/IA/ine5430_gan/src/main.py:44: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`). Consider using `matplotlib.pyplot.close()`.
+  fig = plt.figure(figsize=(8, 8))
+Saved: results_20251111_190133/epoch_019.png
+Epoch: 20 | Loss D.: 0.4612 | Loss G.: 1.3196
+Saved: results_20251111_190133/epoch_020.png
+Epoch: 21 | Loss D.: 0.4991 | Loss G.: 1.6655
+Saved: results_20251111_190133/epoch_021.png
+Epoch: 22 | Loss D.: 0.5304 | Loss G.: 1.2477
+Saved: results_20251111_190133/epoch_022.png
+Epoch: 23 | Loss D.: 0.5141 | Loss G.: 1.0103
+Saved: results_20251111_190133/epoch_023.png
+Epoch: 24 | Loss D.: 0.6156 | Loss G.: 1.1879
+Saved: results_20251111_190133/epoch_024.png
+Epoch: 25 | Loss D.: 0.5233 | Loss G.: 1.0037
+Saved: results_20251111_190133/epoch_025.png
+Epoch: 26 | Loss D.: 0.4999 | Loss G.: 1.0559
+Saved: results_20251111_190133/epoch_026.png
+Epoch: 27 | Loss D.: 0.5613 | Loss G.: 1.2811
+Saved: results_20251111_190133/epoch_027.png
+Epoch: 28 | Loss D.: 0.4710 | Loss G.: 1.2904
+Saved: results_20251111_190133/epoch_028.png
+Epoch: 29 | Loss D.: 0.4782 | Loss G.: 1.2160
+Saved: results_20251111_190133/epoch_029.png
+Epoch: 30 | Loss D.: 0.5384 | Loss G.: 1.3688
+Saved: results_20251111_190133/epoch_030.png
+Epoch: 31 | Loss D.: 0.5929 | Loss G.: 1.3099
+Saved: results_20251111_190133/epoch_031.png
+Epoch: 32 | Loss D.: 0.5314 | Loss G.: 1.1557
+Saved: results_20251111_190133/epoch_032.png
+Epoch: 33 | Loss D.: 0.5477 | Loss G.: 1.1681
+Saved: results_20251111_190133/epoch_033.png
+Epoch: 34 | Loss D.: 0.5548 | Loss G.: 1.1587
+Saved: results_20251111_190133/epoch_034.png
+Epoch: 35 | Loss D.: 0.5607 | Loss G.: 1.1068
+Saved: results_20251111_190133/epoch_035.png
+Epoch: 36 | Loss D.: 0.6333 | Loss G.: 1.1357
+Saved: results_20251111_190133/epoch_036.png
+Epoch: 37 | Loss D.: 0.5288 | Loss G.: 1.1003
+Saved: results_20251111_190133/epoch_037.png
+Epoch: 38 | Loss D.: 0.5648 | Loss G.: 1.2275
+Saved: results_20251111_190133/epoch_038.png
+Epoch: 39 | Loss D.: 0.5959 | Loss G.: 1.0705
+Saved: results_20251111_190133/epoch_039.png
+Epoch: 40 | Loss D.: 0.5498 | Loss G.: 1.1712
+Saved: results_20251111_190133/epoch_040.png
+Epoch: 41 | Loss D.: 0.5861 | Loss G.: 1.1236
+Saved: results_20251111_190133/epoch_041.png
+Epoch: 42 | Loss D.: 0.6111 | Loss G.: 1.0628
+Saved: results_20251111_190133/epoch_042.png
+Epoch: 43 | Loss D.: 0.5430 | Loss G.: 0.9922
+Saved: results_20251111_190133/epoch_043.png
+Epoch: 44 | Loss D.: 0.6740 | Loss G.: 1.0375
+Saved: results_20251111_190133/epoch_044.png
+Epoch: 45 | Loss D.: 0.5468 | Loss G.: 1.0074
+Saved: results_20251111_190133/epoch_045.png
+Epoch: 46 | Loss D.: 0.4992 | Loss G.: 1.1149
+Saved: results_20251111_190133/epoch_046.png
+Epoch: 47 | Loss D.: 0.6673 | Loss G.: 1.2441
+Saved: results_20251111_190133/epoch_047.png
+Epoch: 48 | Loss D.: 0.5806 | Loss G.: 1.0672
+Saved: results_20251111_190133/epoch_048.png
+Epoch: 49 | Loss D.: 0.5252 | Loss G.: 0.9586
